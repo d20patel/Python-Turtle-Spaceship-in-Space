@@ -41,3 +41,5 @@ screen.onkey(backward, "Down")
 screen.onkey(left, "Left")
 screen.onkey(right, "Right")
 screen.listen()
+
+#kjbnaeljsm,a
